@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Bienvenido al proyecto de lógica matemática
 
-You can use the [editor on GitHub](https://github.com/jamendoza7/jamendoza7Proyect.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Este proyecto fue posible gracias a a las redes neuronales
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ejemplos de redes neuronales
 
-### Markdown
+https://www.google.com.ec/url?sa=i&url=https%3A%2F%2Fwww.iartificial.net%2Fredes-neuronales-desde-cero-i-introduccion%2F&psig=AOvVaw0CXQZSczvaxBz0LGrKqGOz&ust=1608087836209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC7x5SAz-0CFQAAAAAdAAAAABAd
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Que son las redes neuroanles
 
-```markdown
-Syntax highlighted code block
+## Es un grupo interconectado de nodos similar a la vasta red de neuronas en un cerebro biológico. Cada nodo circular representa una neurona artificial y cada flecha representa una conexión desde la salida de una neurona a la entrada de otra.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+https://www.google.com.ec/url?sa=i&url=https%3A%2F%2Fwww.atriainnovation.com%2Fque-son-las-redes-neuronales-y-sus-funciones%2F&psig=AOvVaw0CXQZSczvaxBz0LGrKqGOz&ust=1608087836209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC7x5SAz-0CFQAAAAAdAAAAABAD
 
-1. Numbered
-2. List
+## Cuál es su relacion con la tería de grafos
 
-**Bold** and _Italic_ and `Code` text
+## Las redes se pueden representar mediante grafos,
+formados por un conjunto de nodos, o vértices, y las
+correspondientes conexiones entre ellos. A cada
+conexión se le puede asignar un peso, en función de la
+importancia o la magnitud de la relación entre los nodos.
+Para definir los pesos entre las conexiones, se puede
+estimar la relación entre las señales registradas en los
+diferentes electrodos. 
 
-[Link](url) and ![Image](src)
-```
+https://www.google.com.ec/url?sa=i&url=http%3A%2F%2Fandromedavaluecapital.com%2Fnvidia-domina-las-redes-neuronales%2F&psig=AOvVaw0CXQZSczvaxBz0LGrKqGOz&ust=1608087836209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC7x5SAz-0CFQAAAAAdAAAAABAY
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamendoza7/jamendoza7Proyect.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-title="Agente_Lógica"
+  agent-id="22e40e4f-24d2-4513-b1f8-1642e419185c"
+  language-code="es"
+></df-messenger>
