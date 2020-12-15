@@ -1,6 +1,17 @@
 ## Bienvenido al proyecto de lógica matemática
 
+
+
+
+
 ## Este proyecto fue posible gracias a a las redes neuronales
+
+
+
+
+
+
+
 
 ## Ejemplo de redes neuronales
 
