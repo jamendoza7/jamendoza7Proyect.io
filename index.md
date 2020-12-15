@@ -4,14 +4,15 @@
 
 ## Ejemplos de redes neuronales
 
-https://www.google.com.ec/url?sa=i&url=https%3A%2F%2Fwww.iartificial.net%2Fredes-neuronales-desde-cero-i-introduccion%2F&psig=AOvVaw0CXQZSczvaxBz0LGrKqGOz&ust=1608087836209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC7x5SAz-0CFQAAAAAdAAAAABAd
+
+https://www.atriainnovation.com/wp-content/uploads/2019/10/Redes_neuronales_foto.jpg
 
 ## Que son las redes neuroanles
 
 ## Es un grupo interconectado de nodos similar a la vasta red de neuronas en un cerebro biológico. Cada nodo circular representa una neurona artificial y cada flecha representa una conexión desde la salida de una neurona a la entrada de otra.
 
 
-https://www.google.com.ec/url?sa=i&url=https%3A%2F%2Fwww.atriainnovation.com%2Fque-son-las-redes-neuronales-y-sus-funciones%2F&psig=AOvVaw0CXQZSczvaxBz0LGrKqGOz&ust=1608087836209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC7x5SAz-0CFQAAAAAdAAAAABAD
+https://www.iartificial.net/wp-content/uploads/2019/02/IA.jpg
 
 ## Cuál es su relacion con la tería de grafos
 
@@ -24,7 +25,7 @@ Para definir los pesos entre las conexiones, se puede
 estimar la relación entre las señales registradas en los
 diferentes electrodos. 
 
-https://www.google.com.ec/url?sa=i&url=http%3A%2F%2Fandromedavaluecapital.com%2Fnvidia-domina-las-redes-neuronales%2F&psig=AOvVaw0CXQZSczvaxBz0LGrKqGOz&ust=1608087836209000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC7x5SAz-0CFQAAAAAdAAAAABAY
+https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
