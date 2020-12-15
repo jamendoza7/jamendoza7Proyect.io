@@ -4,12 +4,14 @@
 
 ## Ejemplos de redes neuronales
 
+![GitHub Logo](https://www.iartificial.net/wp-content/uploads/2019/02/IA.jpg)
 
 
 ## Que son las redes neuroanles
 
 #Es un grupo interconectado de nodos similar a la vasta red de neuronas en un cerebro biológico. Cada nodo circular representa una neurona artificial y cada flecha representa una conexión desde la salida de una neurona a la entrada de otra.
 
+![GitHub Logo](https://www.atriainnovation.com/wp-content/uploads/2019/10/Redes_neuronales_foto.jpg)
 
 ## Cuál es su relacion con la tería de grafos
 
