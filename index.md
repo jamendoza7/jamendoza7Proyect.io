@@ -3,10 +3,7 @@
 
 
 
-
 ## Este proyecto fue posible gracias a a las redes neuronales
-
-
 
 
 
